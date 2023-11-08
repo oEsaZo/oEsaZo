@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OaGuoSzKBoDIzDO7zSub2FC1RXiieT6w/view?usp=sharing](https://drive.google.com/file/d/1OaGuoSzKBoDIzDO7zSub2FC1RXiieT6w/view?usp=sharing)
 
 - ⚡ Fun fact **everybody googles, I know what to google**
+- [![trophy](https://github-profile-trophy.vercel.app/?username=oEsaZo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
